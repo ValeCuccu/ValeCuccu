@@ -53,9 +53,5 @@ Parallelamente continuo a perfezionare la mia comprensione di **processi, fork, 
 ## 💬 Contatti
 
 📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)  
-💻 **GitHub:** [@ValeCuccu](https://github.com/ValeCuccu)  
+💻 **Linkedin:** (https://www.linkedin.com/in/valentino-cuccu-2bb31035a/)
 🌐 **Progetti 42 Firenze:** [42-Firenze Repository](https://github.com/ValeCuccu/42-Firenze)
-
----
-
-update: added personal presentation
