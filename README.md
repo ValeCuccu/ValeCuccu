@@ -24,7 +24,7 @@ Mi muovo ogni giorno tra **Linux, C e Shell**, cercando di costruire una base so
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeCuccu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 Questo grafico mostra la distribuzione dei linguaggi con cui ho lavorato maggiormente (in base al codice nei repository pubblici).  
-Nota: l’algoritmo usato da GitHub Readme Stats classifica in base ai byte totali per linguaggio. :contentReference[oaicite:0]{index=0}
+Nota: l’algoritmo usato da GitHub Readme Stats classifica in base ai byte totali per linguaggio.
 
 ---
 
@@ -44,9 +44,7 @@ Nota: l’algoritmo usato da GitHub Readme Stats classifica in base ai byte tota
 
 ## 🚀 Obiettivi attuali
 
-Attualmente sto lavorando a **Minishell**, progetto chiave del percorso 42.  
-Sto curando la parte di **parsing, gestione dell' enviroment e tokenizzazione dei vari comandi**.  
-Parallelamente continuo a perfezionare la mia comprensione di **processi, fork, segnali e sincronizzazione** tra thread (progetto Philosophers).
+Sono ancora indeciso tra un futuro come sistemista e un futuro come gaming dev.
 
 ---
 
@@ -55,6 +53,8 @@ Parallelamente continuo a perfezionare la mia comprensione di **processi, fork, 
 📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)
 
 💻 **Linkedin:** (https://www.linkedin.com/in/valentino-cuccu-2bb31035a/)
+
+📞 **Telefono:** +39 3791082704
 
 🌐 **Progetti 42 Firenze:** [42-Firenze Repository](https://github.com/ValeCuccu/42-Firenze)
 
