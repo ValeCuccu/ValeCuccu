@@ -1,60 +1,44 @@
-# 👋 Ciao, sono Valentino
+# 👋 Hi, I’m Valentino
 
-Sono uno studente della **Scuola 42 Firenze**, un percorso di formazione intensiva e pratica nel mondo della programmazione.  
-Il mio obiettivo è diventare un programmatore di sistema completo, capace di muoversi con sicurezza tra basso livello, shell, logica, memoria e debugging.
+I am a student at **Scuola 42 Firenze**, an intensive, hands-on training program in the world of programming.  
+My goal is to become a well-rounded system programmer, comfortable working at a low level with shells, logic, memory management, and debugging.
 
-42 mi ha insegnato non solo a scrivere codice, ma soprattutto a **pensare in modo algoritmico**, risolvere problemi complessi e collaborare in team senza istruttori diretti.  
-Mi muovo ogni giorno tra **Linux, C e Shell**, cercando di costruire una base solida di conoscenze tecniche e metodo.
-
----
-
-## 🧠 Competenze principali
-
-| Linguaggi | Sistemi e Tool | Paradigmi e Tecniche |
-|------------|----------------|-----------------------|
-| ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | Programmazione procedurale |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | Debugging e analisi memoria |
-| ![Makefile](https://img.shields.io/badge/-Makefile-1572B6?style=flat-square&logo=cmake&logoColor=white) | ![Valgrind](https://img.shields.io/badge/-Valgrind-5D2B90?style=flat-square) | Gestione processi e thread |
-|  | ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) | Analisi di sistemi e ottimizzazione |
+42 has taught me not only how to write code, but above all how to **think algorithmically**, solve complex problems, and collaborate in teams without direct instructors.  
+On a daily basis, I work with **Linux, C, and Shell**, focusing on building a solid technical foundation and a strong working method.
 
 ---
 
-## 📊 Linguaggi più usati
+## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeCuccu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
-Questo grafico mostra la distribuzione dei linguaggi con cui ho lavorato maggiormente (in base al codice nei repository pubblici).  
-Nota: l’algoritmo usato da GitHub Readme Stats classifica in base ai byte totali per linguaggio.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeCuccu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🧩 Progetti 42 Firenze
+## 🧩 42 Firenze Projects
 
-| Progetto | Descrizione | Tecnologie | Stato |
-|-----------|--------------|-------------|--------|
-| [**libft**](https://github.com/ValeCuccu/libft) | Implementazione di una libreria standard in C con funzioni di base per la gestione di stringhe e memoria. | C | ✅ Completato |
-| [**get_next_line**](https://github.com/ValeCuccu/get_next_line) | Lettura di linee da file descriptor in modo dinamico, con gestione della memoria e bufferizzazione. | C | ✅ Completato |
-| [**ft_printf**](https://github.org/ValeCuccu/ft_printf) | Ricreazione della funzione printf, con gestione di variabili, formati e output. | C | ✅ Completato |
-| [**born2beroot**](https://github.com/ValeCuccu/born2beroot) | Installazione e configurazione di una macchina virtuale Debian con criteri di sicurezza e permessi. | Debian / Bash | ✅ Completato |
-| [**pipex**](https://github.com/ValeCuccu/pipex) | Replica del comportamento delle pipe della shell, con redirezioni e processi. | C / Linux | ✅ Completato |
-| [**philosophers**](https://github.com/ValeCuccu/philosophers) | Gestione di thread e mutex per risolvere il classico problema dei filosofi a tavola. | C / pthread | 🔧 In corso |
-| [**minishell**](https://github.com/ValeCuccu/minishell) | Implementazione di una mini shell Unix con parsing, pipe, redirezioni e built-in. | C / Bash / Processi | 🔧 In corso |
-
----
-
-## 🚀 Obiettivi attuali
-
-Sono ancora indeciso tra un futuro come sistemista e un futuro come gaming dev.
+| Project | Description | Technologies | Status |
+|--------|-------------|--------------|--------|
+| [**libft**](https://github.com/ValeCuccu/libft) | Implementation of a custom C standard library with fundamental string and memory management functions. | C | ✅ Completed |
+| [**get_next_line**](https://github.com/ValeCuccu/get_next_line) | Dynamic line-by-line reading from file descriptors with correct memory handling and buffering. | C | ✅ Completed |
+| [**ft_printf**](https://github.com/ValeCuccu/ft_printf) | Reimplementation of the `printf` function, handling formats, flags, and output management. | C | ✅ Completed |
+| [**born2beroot**](https://github.com/ValeCuccu/born2beroot) | Installation and secure configuration of a Debian virtual machine with strict permission policies. | Debian / Bash | ✅ Completed |
+| [**minitalk**](https://github.com/ValeCuccu/minitalk) | Inter-process communication using Unix signals to transmit messages between processes. | C / Signals | ✅ Completed |
+| [**push_swap**](https://github.com/ValeCuccu/push_swap) | Algorithmic sorting project based on stack operations and move optimization. | C / Algorithms | ✅ Completed |
+| [**so_long**](https://github.com/ValeCuccu/so_long) | 2D game built with MiniLibX, including map parsing, event handling, and graphical rendering. | C / MiniLibX | ✅ Completed |
+| [**philosophers**](https://github.com/ValeCuccu/philosophers) | Thread and mutex management to solve the classic Dining Philosophers problem. | C / pthread | 🔧 In Progress |
+| [**minishell**](https://github.com/ValeCuccu/minishell) | Implementation of a mini Unix shell with parsing, pipes, redirections, and built-in commands. | C / Bash / Processes | 🔧 In Progress |
 
 ---
 
-## 💬 Contatti
+## 🚀 Current Goals
 
-📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)
+I am currently exploring whether to pursue a future as a system programmer or as a game developer.
 
-💻 **Linkedin:** (https://www.linkedin.com/in/valentino-cuccu-2bb31035a/)
+---
 
-📞 **Telefono:** +39 3791082704
+## 💬 Contacts
 
-🌐 **Progetti 42 Firenze:** [42-Firenze Repository](https://github.com/ValeCuccu/42-Firenze)
+📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)  
+💻 **LinkedIn:** https://www.linkedin.com/in/valentino-cuccu-2bb31035a/  
+🌐 **42 Firenze Projects:** https://github.com/ValeCuccu/42-Firenze
 
