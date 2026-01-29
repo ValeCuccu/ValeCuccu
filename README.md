@@ -10,8 +10,6 @@ On a daily basis, I work with **Linux, C, and Shell**, focusing on building a so
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeCuccu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🧩 42 Firenze Projects
@@ -21,7 +19,7 @@ On a daily basis, I work with **Linux, C, and Shell**, focusing on building a so
 | [**libft**](https://github.com/ValeCuccu/libft) | Implementation of a custom C standard library with fundamental string and memory management functions. | C | ✅ Completed |
 | [**get_next_line**](https://github.com/ValeCuccu/get_next_line) | Dynamic line-by-line reading from file descriptors with correct memory handling and buffering. | C | ✅ Completed |
 | [**ft_printf**](https://github.com/ValeCuccu/ft_printf) | Reimplementation of the `printf` function, handling formats, flags, and output management. | C | ✅ Completed |
-| [**born2beroot**](https://github.com/ValeCuccu/born2beroot) | Installation and secure configuration of a Debian virtual machine with strict permission policies. | Debian / Bash | ✅ Completed |
+| [**born2beroot**]() | Installation and secure configuration of a Debian virtual machine with strict permission policies. | Debian / Bash | ✅ Completed |
 | [**minitalk**](https://github.com/ValeCuccu/minitalk) | Inter-process communication using Unix signals to transmit messages between processes. | C / Signals | ✅ Completed |
 | [**push_swap**](https://github.com/ValeCuccu/push_swap) | Algorithmic sorting project based on stack operations and move optimization. | C / Algorithms | ✅ Completed |
 | [**so_long**](https://github.com/ValeCuccu/so_long) | 2D game built with MiniLibX, including map parsing, event handling, and graphical rendering. | C / MiniLibX | ✅ Completed |
