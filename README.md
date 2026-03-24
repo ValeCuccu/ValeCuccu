@@ -24,7 +24,7 @@ On a daily basis, I work with **Linux, C, and Shell**, focusing on building a so
 | [**push_swap**](https://github.com/ValeCuccu/push_swap) | Algorithmic sorting project based on stack operations and move optimization. | C / Algorithms | ✅ Completed |
 | [**so_long**](https://github.com/ValeCuccu/so_long) | 2D game built with MiniLibX, including map parsing, event handling, and graphical rendering. | C / MiniLibX | ✅ Completed |
 | [**minishell**](https://github.com/ValeCuccu/minishell) | Implementation of a mini Unix shell with parsing, pipes, redirections, and built-in commands. | C / Bash / Processes | ✅ Completed |
-| [**philosophers**](https://github.com/ValeCuccu/philosophers) | Thread and mutex management to solve the classic Dining Philosophers problem. | C / pthread | 🔧 In Progress |
+| [**philosophers**](https://github.com/ValeCuccu/philosophers) | Thread and mutex management to solve the classic Dining Philosophers problem. | C / pthread | ✅ Completed |
 
 ---
 
