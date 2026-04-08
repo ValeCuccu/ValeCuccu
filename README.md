@@ -8,9 +8,7 @@ On a daily basis, I work with **Linux, C, and Shell**, focusing on building a so
 
 ---
 
-## 📊 Most Used Languages
-
----
+[![VACUCCU's 42 stats](https://badge.mediaplus.ma/darkblue/VACUCCU?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🧩 42 Firenze Projects
 
