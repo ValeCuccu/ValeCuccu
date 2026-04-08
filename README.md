@@ -25,6 +25,9 @@ On a daily basis, I work with **Linux, C, and Shell**, focusing on building a so
 | [**so_long**](https://github.com/ValeCuccu/so_long) | 2D game built with MiniLibX, including map parsing, event handling, and graphical rendering. | C / MiniLibX | ✅ Completed |
 | [**minishell**](https://github.com/ValeCuccu/minishell) | Implementation of a mini Unix shell with parsing, pipes, redirections, and built-in commands. | C / Bash / Processes | ✅ Completed |
 | [**philosophers**](https://github.com/ValeCuccu/philosophers) | Thread and mutex management to solve the classic Dining Philosophers problem. | C / pthread | ✅ Completed |
+| [**CUB3D**]() | A 3D raycasting engine similar to Wolfenstein 3D, exploring mathematics and graphical rendering. | C / MiniLibX / Raycasting | 🏗️ In Progress |
+| [**Net-Practice**]() | Practical exercises to understand networking, IP addressing, TCP/IP, and routing. | Networking / IP | 🏗️ In Progress |
+| [**C++ 0 - 4**]() | Transition from procedural C to Object-Oriented Programming (OOP) using C++. | C++ / OOP | 🏗️ In Progress |
 
 ---
 
