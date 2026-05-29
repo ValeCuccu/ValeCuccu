@@ -37,7 +37,6 @@ I am currently exploring whether to pursue a future as a system programmer or as
 
 ## 💬 Contacts
 
-📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)  
-💻 **LinkedIn:** https://www.linkedin.com/in/valentino-cuccu-2bb31035a/  
-🌐 **42 Firenze Projects:** https://github.com/ValeCuccu/42-Firenze
-
+🌐 **Portfolio & CV:** [valecuccu.github.io](https://valecuccu.github.io) *(Sostituisci questo con il link finale del tuo sito se compri un dominio)*  
+💻 **LinkedIn:** [Valentino Cuccu](https://www.linkedin.com/in/valentino-cuccu-2bb31035a/)  
+📫 **Email:** [valentinocuccu34@gmail.com](mailto:valentinocuccu34@gmail.com)
